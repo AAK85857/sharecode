@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav #navbar {
+    height: 976vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.navtop {
+
+    padding: 100px;
+}
+
+.navbtn ul li {
+    text-align: center;
+    margin: -45px 448px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.navbtn ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: large;
+}
+.getbtn button{
+    margin-left: 1115px;
+    background-color: #DF6951;
+    width: 152px;
+    height: 58px;
+    border: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    cursor: pointer;
+}
+.navcon{
+    margin-left: 200px -300px;
+}
